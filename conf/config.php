@@ -31,6 +31,7 @@ $Configuration['Garden']['InputFormatter'] = 'Markdown';
 $Configuration['Garden']['Version'] = 'Undefined';
 $Configuration['Garden']['CanProcessImages'] = true;
 $Configuration['Garden']['Installed'] = true;
+$Configuration['Garden']['GuestTimeZone'] = 'Asia/Taipei';
 
 // Plugins
 $Configuration['Plugins']['GettingStarted']['Dashboard'] = '1';
